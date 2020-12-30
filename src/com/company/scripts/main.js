@@ -12,13 +12,13 @@ let myImage = document.querySelector('img');
 myImage.onclick = function()
 {
     let mySrc = myImage.getAttribute('src');
-    if (mySrc === 'images/010627_Ausstand07.jpg')
+    if (mySrc === '/src/com/company/images/010627_Ausstand07.jpg')
     {
-        myImage.setAttribute('src', 'images/Karin_Schnut.jpg');
+        myImage.setAttribute('src', '/src/com/company/images/Karin_Schnut.jpg');
     }
     else
     {
-        myImage.setAttribute('src', 'images/010627_Ausstand07.jpg');
+        myImage.setAttribute('src', '/src/com/company/images/010627_Ausstand07.jpg');
     }
 }
 
