@@ -1,0 +1,39 @@
+Header Informationen
+
+<html lang="de-DE">
+    <head>
+        <meta charset = "utf-8">
+        <meta name="author" content="Karin Peisl">
+        <meta name="description" content="Meine erste Testpage zum Spielen">
+        <!-- wird fuer Suchen in Suchmaschinen verwendet -->
+        <link rel="shortcut icon" href="favicon.ico type="image/x-icon">
+        <title>My test page</title>
+    </head>
+    <body>
+        <h1>Erster Header</h1>
+        <h2>Zweiter Header</h2>
+        <h3>Dritter Header</h3>
+        <ul>
+            Karin
+            Robert
+        </ul>
+        <ul>
+            <li>Karin</li>
+            <li>Robert</li>
+        </ul>
+        <ol>
+            <li>Karin</li>
+            <li>Robert</li>
+        </ol>
+        <p>This is my page</p>
+        <p>This is <em>really</em> my page</p>
+        <p>This is <strong>really</strong> my page</p>
+        <p>This is <i>italic</i></p>
+        <p>This is <b> bold </b></p>
+        <p>Hyperlink <a href="www.google.com" title="Mouse over and you get to Google">Google</a></p>
+        <p>Hyperlink <a href="www.google.com" title="Mouse over and you get to Google" target="_blank"><img src="google.png" alt="Google Link"></a></p>
+        <p>Hyperlink <a href="www.download.com" download="install.exe">Download function</a></p>
+        <p>Email <a href="mailto:karin.peisl@gmail.com">Send email to Karin</a></p>
+
+    </body>
+</html>
