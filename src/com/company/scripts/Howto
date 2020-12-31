@@ -33,7 +33,24 @@ Header Informationen
         <p>Hyperlink <a href="www.google.com" title="Mouse over and you get to Google">Google</a></p>
         <p>Hyperlink <a href="www.google.com" title="Mouse over and you get to Google" target="_blank"><img src="google.png" alt="Google Link"></a></p>
         <p>Hyperlink <a href="www.download.com" download="install.exe">Download function</a></p>
-        <p>Email <a href="mailto:karin.peisl@gmail.com">Send email to Karin</a></p>
-
+        <p>Email <a href="mailto:karin.peisl@gmail.com?cc=robert.fraundorfer@icloud.com?bcc>karin.peisl@icloud.com?subject=Meine%20erste%20Email?body=Inhalt%20der%20Email">Send email to Karin</a></p>
+        <p>Description Lists</p>
+           <dl>
+                <dt>Titel 1</dt>
+                <dd>Beschreibung blabla 1</dd>
+                <dt>Titel 2</dt>
+                <dd>Beschreibung blabla 2</dd>
+            </dl>
+        <p>Blockquotes</p>
+        <blockquote cite="https://blupp.com/blockquite">
+            <p>The HTLM Blockquote Element indicates that the enclosed text ist an extended quotation</p>
+        </blockquote>
+        <address>
+            <p>Karin Peisl, Regensburg, Deutschland</p>
+        </address>
+        <p>Superscript and subscript</p>
+        <p>Mein Geburstag ist am 3<sup>ten</sup> Juni</p>
+        <p>H<sub>2</sub>O</p>
+        <time datetime="2020-12-31"31 Dezember 2020</time>
     </body>
 </html>
